@@ -29,7 +29,7 @@ for _ in range(48):
     
     json.dump(results_dict, open(f"data/{now_text}.json", "w"), indent=2)
     
-    break
+    # break
     time.sleep(20 * 60) # 20 minutes
     
     
