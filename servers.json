@@ -1,0 +1,130 @@
+{
+  "0.412013855832036": [
+    {
+      "url": "http://speedtestkv1a.viettel.vn:8080/speedtest/upload.php",
+      "lat": "21.0285",
+      "lon": "105.8542",
+      "name": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN",
+      "sponsor": "Viettel Network",
+      "id": "9903",
+      "host": "speedtestkv1a.viettel.vn:8080",
+      "d": 0.412013855832036
+    },
+    {
+      "url": "http://speedtest1.vtvcab.vn:8080/speedtest/upload.php",
+      "lat": "21.0285",
+      "lon": "105.8542",
+      "name": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN",
+      "sponsor": "VTVCab",
+      "id": "34909",
+      "host": "speedtest1.vtvcab.vn:8080",
+      "d": 0.412013855832036
+    },
+    {
+      "url": "http://supernet-hanoi.supernet.vn:8080/speedtest/upload.php",
+      "lat": "21.0285",
+      "lon": "105.8542",
+      "name": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN",
+      "sponsor": "Supernet-hanoi",
+      "id": "10308",
+      "host": "supernet-hanoi.supernet.vn:8080",
+      "d": 0.412013855832036
+    },
+    {
+      "url": "http://speedtesthn.fpt.vn:8080/speedtest/upload.php",
+      "lat": "21.0285",
+      "lon": "105.8542",
+      "name": "Hanoi",
+      "country": "Vietnam",
+      "cc": "VN",
+      "sponsor": "FPT Telecom",
+      "id": "2552",
+      "host": "speedtesthn.fpt.vn:8080",
+      "d": 0.412013855832036
+    },
+    {
+      "url": "http://vhn.vietpn.com:8080/speedtest/upload.php",
+      "lat": "21.0285",
+      "lon": "105.8542",
+      "name": "Ha Noi",
+      "country": "Viet Nam",
+      "cc": "VN",
+      "sponsor": "VIETPN CO, LTD",
+      "id": "11430",
+      "host": "vhn.vietpn.com:8080",
+      "d": 0.412013855832036
+    }
+  ],
+  "606.4086740415554": [
+    {
+      "url": "http://st3.mobifone.vn:8080/speedtest/upload.php",
+      "lat": "16.0667",
+      "lon": "108.2333",
+      "name": "Da Nang",
+      "country": "Vietnam",
+      "cc": "VN",
+      "sponsor": "Mobifone",
+      "id": "48420",
+      "host": "st3.mobifone.vn:8080",
+      "d": 606.4086740415554
+    },
+    {
+      "url": "http://speedtest5.vtn.com.vn:8080/speedtest/upload.php",
+      "lat": "16.0667",
+      "lon": "108.2333",
+      "name": "Da Nang",
+      "country": "Vietnam",
+      "cc": "VN",
+      "sponsor": "VNPT-NET",
+      "id": "17756",
+      "host": "speedtest5.vtn.com.vn:8080",
+      "d": 606.4086740415554
+    },
+    {
+      "url": "http://speedtestdng.fpt.vn:8080/speedtest/upload.php",
+      "lat": "16.0667",
+      "lon": "108.2333",
+      "name": "Da Nang",
+      "country": "Vietnam",
+      "cc": "VN",
+      "sponsor": "FPT Telecom",
+      "id": "44677",
+      "host": "speedtestdng.fpt.vn:8080",
+      "d": 606.4086740415554
+    }
+  ],
+  "89.63798635766389": [
+    {
+      "url": "http://speedtest7.vtn.com.vn:8080/speedtest/upload.php",
+      "lat": "20.8467",
+      "lon": "106.6918",
+      "name": "Hai Phong",
+      "country": "Vietnam",
+      "cc": "VN",
+      "sponsor": "VNPT-NET",
+      "id": "45493",
+      "host": "speedtest7.vtn.com.vn:8080",
+      "d": 89.63798635766389
+    }
+  ],
+  "539.881880006981": [
+    {
+      "url": "http://speedtestkv2dp1.viettel.vn:8080/speedtest/upload.php",
+      "lat": "16.4637",
+      "lon": "107.5909",
+      "name": "Hue",
+      "country": "Vietnam",
+      "cc": "VN",
+      "sponsor": "Viettel Network",
+      "id": "27630",
+      "host": "speedtestkv2dp1.viettel.vn:8080",
+      "d": 539.881880006981
+    }
+  ]
+}
