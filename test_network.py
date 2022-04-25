@@ -16,6 +16,10 @@ if not os.path.exists("data"):
     os.makedirs("data")
 
 for _ in range(48):
+    now_text = datetime.datetime.now(pytz.timezone("Asia/Ho_Chi_Minh")).isoformat()
+    
+    print(f"{now_text} RUNNING...")
+    
     s = speedtest.Speedtest()
     s.servers = x_servers
     s.get_best_server()
@@ -24,10 +28,10 @@ for _ in range(48):
     s.results.share()
 
     results_dict = s.results.dict()
-
-    now_text = datetime.datetime.now(pytz.timezone("Asia/Ho_Chi_Minh")).isoformat()
     
     json.dump(results_dict, open(f"data/{now_text}.json", "w"), indent=2)
+    
+    print(f"{now_text} DONE...")
     
     # break
     time.sleep(20 * 60) # 20 minutes
